@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/Custom Vehicle Dataset  # dataset root dir
+train: train/images  # train images (relative to 'path')
+val: validation/images  # val images (relative to 'path')
+
+# Classes
+nc: 5  # number of classes
+names: [ 'Car', 'Motorcycle', 'Truck', 'Bus', 'Bicycle']  # class names
