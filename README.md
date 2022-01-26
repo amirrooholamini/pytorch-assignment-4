@@ -1,5 +1,5 @@
 # Vehicle Detection
-
+this agent trained on classes of 'Cars','Motorcycles','Trucks','Buses' and 'Bicycles'
 
 ## Installation
 
